@@ -76,6 +76,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdzNGJpbXNrYXdhb3M0anAxdWs5ZWMzd2lkOWhhMG9wZmdkejQwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dxn6fRlTIShoeBr69N/giphy.gif" width="250" alt="Motivation GIF"/>
+</p>
+
+
 ## 📂 Featured Projects
 
 - [Python Automation Scripts](#) 🐍  

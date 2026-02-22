@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsXK7nLzTPw6rTy/giphy.gif" width="300" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRuOXI3Y2IzajZscGpoNzN0aW1sZW9uamd3M21rZXN4ZGUyOWpxbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif" width="300" alt="Coding GIF"/>
 </p>
 
 ---
@@ -25,14 +25,14 @@
 ## 💻 Tech Stack
 
 ### ⭐ Specialized
-- **Python** 🐍  
-- **Java** ☕  
-- **JavaScript** 💎  
-
-### 📘 Learning
 - **SQL** 🗄️  
 - **Bash** 🖥️  
-- **Lua (MTA)** 🎮  
+- **Lua (MTA)** 🎮 
+- **Python** 🐍    
+
+### 📘 Learning
+- **Java** ☕  
+- **JavaScript** 💎
 
 ### 🔧 Tools & Platforms
 - Git & GitHub  
@@ -48,8 +48,7 @@
   <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="250" alt="Projects GIF"/>
 </p>
 
-- 🧰 Python scripts & Linux utilities  
-- 🧠 Networking experiments with VMs & MikroTik  
+- 🧰 Python scripts & Linux utilities    
 - 📦 Bash & Lua automation  
 - 📊 SQL database learning & practice  
 - 🌐 Full-stack exploration & small projects  
@@ -59,18 +58,9 @@
 ## 🐧 Linux Vibe
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="100" alt="Tux Logo"/>
-  <img src="Logo\debian.png" width="100" alt="Debian Logo"/>
-  <img src="Logo\kali_.png" width="100" alt="Kali Logo"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=GodFather850&show_icons=true&theme=radical"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodFather850&layout=compact&theme=radical"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="110" alt="Tux Logo"/>
+  <img src="Logo\debian.png" width="110" alt="Debian Logo"/>
+  <img src="Logo\kali_.png" width="150" alt="Kali Logo"/>
 </p>
 
 ---
@@ -107,6 +97,5 @@
 
 <p align="center">
   <a href="https://github.com/GodFather850"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-HERE-blue?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-HERE-blue?style=for-the-badge&logo=linkedin"></a>
 </p>

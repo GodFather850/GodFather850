@@ -71,7 +71,7 @@
 > Every day I build a little more toward the future I want.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250" alt="Motivation GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FyN2R5bHIyMmdrdnRuaGZlMnk0NDd0cTFoamM1anlmdTlsNzJxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7bufgPP70ra2ZVi8/giphy.gif" width="250" alt="Motivation GIF"/>
 </p>
 
 ---

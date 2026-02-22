@@ -60,8 +60,8 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="100" alt="Tux Logo"/>
-  <img src="debian.jpg" width="100" alt="Debian Logo"/>
-  <img src="kali_.jpg" width="100" alt="Kali Logo"/>
+  <img src="Logo\debian.png" width="100" alt="Debian Logo"/>
+  <img src="Logo\kali_.png" width="100" alt="Kali Logo"/>
 </p>
 
 ---

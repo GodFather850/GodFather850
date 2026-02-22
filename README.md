@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <b>GodFather850</b></h1>
+<h1 align="center">👋 Hi, I'm <b>Mohammad</b></h1>
 
 <p align="center">
   🚀 Self-Taught Developer & Linux Enthusiast 🚀<br/>

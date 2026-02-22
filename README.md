@@ -60,9 +60,8 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="100" alt="Tux Logo"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Debian_logo.svg" width="100" alt="Debian Logo"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Kali_Linux_logo.png" width="100" alt="Kali Logo"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Pop!_OS_logo.svg" width="100" alt="PopOS Logo"/>
+  <img src="debian.jpg" width="100" alt="Debian Logo"/>
+  <img src="kali_.jpg" width="100" alt="Kali Logo"/>
 </p>
 
 ---

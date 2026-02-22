@@ -20,6 +20,10 @@
 - 📚 Learning Python, Java, Bash, Lua, SQL  
 - 🔧 Multi-distro Linux user: Debian, Kali, Pop!_OS  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWNibTd5N29wanY2djIwaTNxbXJ3NGx5bHkwZ3Ywbzl0MWRsZGs2aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rvNfVjgBS4J3ugFCFo/giphy.gif" width="300" alt="Coding GIF"/>
+</p>
+
 ---
 
 ## 💻 Tech Stack
@@ -38,14 +42,18 @@
 - Git & GitHub  
 - Virtualization: VMs, Networking, MikroTik  
 - Linux & CLI automation  
-- Terminal hacks & system tweaks  
+- Terminal hacks & system tweaks
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhtZWhkMTFqZzQ5YWVmcnJ4dmZhMXgwbDR1cGRvbjN1N2ZqcXZpYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uuuT5YveDNYs7hLbKS/giphy.gif" width="300" alt="Coding GIF"/>
+</p>
 
 ---
 
 ## 🚀 Projects & Highlights
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="250" alt="Projects GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjMzeHkzZmhtZ3o5ZmVvNHE0dXAyMDd4bDMweDdmbXhqbnk2YWlzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" alt="Projects GIF"/>
 </p>
 
 - 🧰 Python scripts & Linux utilities    

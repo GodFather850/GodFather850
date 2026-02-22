@@ -96,6 +96,10 @@
   <img src="https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify" alt="Spotify Now Playing"/>
 </p>
 
+p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg3OTdvZ3A3czIwNnN2MWE4bWZ6djA4ZGh6eXN3OHd0dHloNGxnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EFGXDUBXcUd131C0CR/giphy.gif" width="300" alt="Coding GIF"/>
+</p>
+
 ---
 
 ## 📫 Let’s Connect

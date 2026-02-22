@@ -44,7 +44,7 @@
 - Linux & CLI automation  
 - Terminal hacks & system tweaks
 
-<p align="center">
+<p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhtZWhkMTFqZzQ5YWVmcnJ4dmZhMXgwbDR1cGRvbjN1N2ZqcXZpYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uuuT5YveDNYs7hLbKS/giphy.gif" width="300" alt="Coding GIF"/>
 </p>
 

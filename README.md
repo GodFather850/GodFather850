@@ -37,7 +37,7 @@
 
 ### 🔧 Tools & Platforms
 - Git & GitHub
-- Linkedin
+- ![Linkedin](https://www.linkedin.com/in/mohammad-shaygan-2a96a8387/)
 - GNU/Linux & CLI Lover
 - X
 

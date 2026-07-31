@@ -18,7 +18,7 @@
 - 🐧 GNU/Linux terminal & CLI lover
 - 💡 Focused on problem-solving & real-world projects
 - 📚 Learning Python, Bash, SQL, Networking, DevOps, security
-- 🔧 Distro: Debian 13 & KALI
+- 🔧 Distro: Debian 13
 - 🎮 NeonMTA GameMod Owner & Scripter
 
 <p align="center">
@@ -64,7 +64,6 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="110" alt="Tux Logo"/>
   <img src="Logo\debian.png" width="110" alt="Debian Logo"/>
-  <img src="Logo\kali_.png" width="110" alt="kali Logo"/>
 </p>
 
 ---

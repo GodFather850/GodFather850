@@ -18,7 +18,7 @@
 - 🐧 GNU/Linux terminal & CLI lover
 - 💡 Focused on problem-solving & real-world projects
 - 📚 Learning Python, Bash, SQL, Networking, DevOps, security
-- 🔧 Distro: Debian 13
+- 🔧 Distro: Debian 12 (bookworm)
 - 🎮 NeonMTA GameMod Owner & Scripter
 
 <p align="center">

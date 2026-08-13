@@ -74,14 +74,10 @@
 > Every day I build a little more toward the future I want.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FyN2R5bHIyMmdrdnRuaGZlMnk0NDd0cTFoamM1anlmdTlsNzJxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7bufgPP70ra2ZVi8/giphy.gif" width="350" alt="Motivation GIF"/>
+  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdzNGJpbXNrYXdhb3M0anAxdWs5ZWMzd2lkOWhhMG9wZmdkejQwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dxn6fRlTIShoeBr69N/giphy.gif" width="250" alt="Motivation GIF"/>
-</p>
 
 
 ## 📂 Featured Projects
@@ -89,7 +85,11 @@
 - [Python Automation Scripts](#) 🐍  
 - [Bash & GNU/Linux Tools](#) 🖥️  
 - [Lua MTA Scripts](#) 🎮  
-- [Networking & VM Experiments](#) 🌐  
+- [Networking & VM Experiments](#) 🌐
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdzNGJpbXNrYXdhb3M0anAxdWs5ZWMzd2lkOWhhMG9wZmdkejQwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dxn6fRlTIShoeBr69N/giphy.gif" width="250" alt="Motivation GIF"/>
+</p>
 
 ---
 

@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hi, I'm <b>Mohammad</b></h1>
+<h1 align="center">👋 Hi, I'm <b>Mohammad (CAgent_47)</b></h1>
 
 <p align="center">
   🚀 Self-Taught Developer & GNU/Linux Enthusiast 🚀<br/>
-  🐧 GNU/Linux Lover<br/>
-  💻 Building real projects, learning daily, mastering skills
+  🐧 GNU/Linux & BSD Lover<br/>
+  💻 Building Real Projects, Learning Daily, Mastering Skills
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
 - 🎯 18 years old, self-taught developer
 - 🐧 GNU/Linux terminal & CLI lover
 - 💡 Focused on problem-solving & real-world projects
-- 📚 Learning Python, Bash, SQL, Networking, DevOps, security, Go, C, Docker
-- 🔧 Distro: Debian 12 (bookworm)
+- 📚 Learning Python, Bash, SQL, Networking, DevOps, security, Go, C, Docker, Rust
+- 🔧 Distro: Debian 13 (trixie) XFCE
 - 🎮 NeonMTA GameMod Owner & Scripter
 
 <p align="center">

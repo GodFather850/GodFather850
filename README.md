@@ -17,7 +17,7 @@
 - 🎯 18 years old, self-taught developer
 - 🐧 GNU/Linux terminal & CLI lover
 - 💡 Focused on problem-solving & real-world projects
-- 📚 Learning Python, Bash, SQL, Networking, DevOps, security, Go, C, Docker, Rust
+- 📚 Learning Python, Bash, SQL, Networking, DevOps, Go, C, Rust
 - 🔧 Distro: Debian 13 (trixie) XFCE
 - 🎮 NeonMTA GameMod Owner & Scripter
 

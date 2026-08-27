@@ -18,7 +18,7 @@
 - 🐧 GNU/Linux & BSD CLI Lover
 - 💡 Focused on problem-solving & real-world projects
 - 📚 Learning Python, Bash, SQL, Networking, DevOps, Go, Rust
-- 🔧 Distro: FreeBSD & Arch GNU/Linux (Hyprland)
+- 🔧 Distro: Debian 13 XFCE
 - 🎮 NeonMTA GameMod Owner & Scripter
 
 <p align="center">
@@ -63,6 +63,7 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="110" alt="Tux Logo"/>
+  <img src="debian.png" width="110" alt="Debian Logo"/>
 </p>
 
 ---

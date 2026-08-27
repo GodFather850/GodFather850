@@ -63,7 +63,7 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="110" alt="Tux Logo"/>
-  <img src="debian.png" width="110" alt="Debian Logo"/>
+  <img src="Logo/debian.png" width="110" alt="Debian Logo"/>
 </p>
 
 ---

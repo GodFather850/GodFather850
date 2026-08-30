@@ -18,7 +18,7 @@
 - 🐧 GNU/Linux & BSD CLI Lover
 - 💡 Focused on problem-solving & real-world projects
 - 📚 Learning Python, Bash, SQL, Networking, DevOps, Go, Rust
-- 🔧 Distro: Debian 13 XFCE
+- 🔧 Distro: Debian 13 GNOME
 - 🎮 NeonMTA GameMod Owner & Scripter
 
 <p align="center">
